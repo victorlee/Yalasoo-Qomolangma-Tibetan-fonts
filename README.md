@@ -10,6 +10,8 @@ An archive of Qomolangma Tibetan fonts.
 
 [stylesheet.css](stylesheet.css)
 
+[have a look!](display.html)
+
 - `Qomolangma-Betsu`
 - `Qomolangma-Chuyig`
 - `Qomolangma-Art`
