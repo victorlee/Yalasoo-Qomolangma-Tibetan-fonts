@@ -1,0 +1,153 @@
+@font-face {
+    font-family: 'Qomolangma-Betsu';
+    src: url('Qomolangma-Betsu.woff2') format('woff2'),
+        url('Qomolangma-Betsu.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Chuyig';
+    src: url('Qomolangma-Chuyig.woff2') format('woff2'),
+        url('Qomolangma-Chuyig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Art';
+    src: url('Qomolangma-Art.woff2') format('woff2'),
+        url('Qomolangma-Art.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Drutsa';
+    src: url('Qomolangma-Drutsa.woff2') format('woff2'),
+        url('Qomolangma-Drutsa.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Dunhuang';
+    src: url('Qomolangma-Dunhuang.woff2') format('woff2'),
+        url('Qomolangma-Dunhuang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Edict';
+    src: url('Qomolangma-Edict.woff2') format('woff2'),
+        url('Qomolangma-Edict.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Horyig';
+    src: url('Qomolangma-Horyig.woff2') format('woff2'),
+        url('Qomolangma-Horyig.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Subtitle';
+    src: url('Qomolangma-Subtitle.woff2') format('woff2'),
+        url('Qomolangma-Subtitle.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Title';
+    src: url('Qomolangma-Title.woff2') format('woff2'),
+        url('Qomolangma-Title.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Tsumachu';
+    src: url('Qomolangma-Tsumachu.woff2') format('woff2'),
+        url('Qomolangma-Tsumachu.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Tsuring';
+    src: url('Qomolangma-Tsuring.woff2') format('woff2'),
+        url('Qomolangma-Tsuring.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Tsutong';
+    src: url('Qomolangma-Tsutong.woff2') format('woff2'),
+        url('Qomolangma-Tsutong.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Uchen Sarchen';
+    src: url('Qomolangma-UchenSarchen.woff2') format('woff2'),
+        url('Qomolangma-UchenSarchen.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Uchen Sarchung';
+    src: url('Qomolangma-UchenSarchung.woff2') format('woff2'),
+        url('Qomolangma-UchenSarchung.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Uchen Suring';
+    src: url('Qomolangma-UchenSuring.woff2') format('woff2'),
+        url('Qomolangma-UchenSuring.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Uchen Sutung';
+    src: url('Qomolangma-UchenSutung.woff2') format('woff2'),
+        url('Qomolangma-UchenSutung.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Qomolangma-Woodblock';
+    src: url('Qomolangma-Woodblock.woff2') format('woff2'),
+        url('Qomolangma-Woodblock.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
